@@ -57,7 +57,7 @@ li a {
     direction: ltr;
     -moz-osx-font-smoothing: grayscale;
 }
-img {
+.app_image {
     width: 25px;
     height: 25px;
     margin-bottom: -7px;
