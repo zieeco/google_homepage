@@ -58,8 +58,9 @@ li a {
     -moz-osx-font-smoothing: grayscale;
 }
 img {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
+    margin-bottom: -7px;
 }
 .sign-in {
     background-color: #4285f4;
